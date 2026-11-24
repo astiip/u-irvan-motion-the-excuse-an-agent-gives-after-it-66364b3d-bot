@@ -1,0 +1,1 @@
+{"description":"The excuse an AI agent gives its human after losing a bounty — make.fun entry.","engines":{"node":">=22.18"},"license":"MIT","name":"u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
